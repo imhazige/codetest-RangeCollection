@@ -1,0 +1,22 @@
+{
+  "name": "codetest-rangecollection",
+  "version": "1.0.0",
+  "description": "Code Test RangeCollection",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imhazige/codetest-RangeCollection.git"
+  },
+  "author": "Ka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imhazige/codetest-RangeCollection/issues"
+  },
+  "homepage": "https://github.com/imhazige/codetest-RangeCollection#readme",
+  "devDependencies": {
+    "mocha": "^6.0.2"
+  }
+}
