@@ -1,1 +1,8 @@
-{ "extends": "airbnb-base/legacy" }
+{
+  "extends": "airbnb",
+  "parser": "babel-eslint",
+  "rules": {
+    "max-len": 0,
+    "no-unused-vars": 0
+  }
+}
